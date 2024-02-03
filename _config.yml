@@ -1,0 +1,40 @@
+title: Jinlian Li
+url: https://l7991-lian.github.io/
+description: Here is a personal website of Jinlian Li
+
+owner:
+  name: Jinlian Li
+  avatar: jinlian_undergraduate.jpg
+  email: li_jinlian@gibh.ac.cn
+  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  github: L7991-lian
+
+# For external links add external: true
+links:
+  - title: About Me
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Hobbies
+    url: /hobbies/
+  - title: Blogs
+    url: /blogs/
+
+timezone: China/Beijing
+future: true
+highlighter: rouge
+
+permalink:   /:categories/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+disqus:
+  shortname: lancecai
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
