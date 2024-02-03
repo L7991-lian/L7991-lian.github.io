@@ -13,10 +13,10 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Hobbies
-    url: /hobbies/
+#  - title: Publications
+#    url: /publications/
+#  - title: Hobbies
+#    url: /hobbies/
   - title: Blogs
     url: /blogs/
 
