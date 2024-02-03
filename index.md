@@ -11,14 +11,13 @@ I am Jinlian Li(李金连), a Ph.D. candidate at the Guangzhou Institute of Biom
 
 
 ## Education Background
+** <font color='Sapphireblue'> Guangzhou Institute of Biomedicine and Health (GIBH, UCAS) </font> **
+- **Aug 2020 - June 2025:** Biochemistry and Molecular Biology (Bioinformatics specialization)
+- **Expect to graduate in June 2025.**
 
 ** <font color='Sapphireblue'> Southern Medical University (SMU) </font> **
 - **Sep 2016 - June 2020:** Biotechnology (Biopharmaceuticals)
 - **GPA ranking:** 1st out of 48 students
-
-** <font color='Sapphireblue'> Guangzhou Institute of Biomedicine and Health (GIBH, UCAS) </font> **
-- **Aug 2020 - June 2025:** Biochemistry and Molecular Biology (Bioinformatics specialization)
-- **Expect to graduate in June 2025.** 
 
 <br>
 
