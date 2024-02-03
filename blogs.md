@@ -8,4 +8,4 @@ title: Blogs
 
 ### 2024-02
 
-- [Git can't link to github](https://l7991-lian.github.io/blogs/git_ssh/)
+- [Git_SSH_config](https://l7991-lian.github.io/blogs/git_ssh)
