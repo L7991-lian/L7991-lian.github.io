@@ -1,5 +1,5 @@
 # About me
-Here is a simple cv of Jinlian Li. More aobut me, [here](https://l7991-lian.github.io/)
+More aobut me, [here](https://l7991-lian.github.io/)
 
 # Major
 - liver injury and regeneration
